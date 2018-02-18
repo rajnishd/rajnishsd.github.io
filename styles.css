@@ -1,0 +1,32 @@
+body {
+	background: url('Mango.JPG') no-repeat  center;
+	background-size: cover;
+	font-family: calibri;
+}
+
+body div{
+	margin-top: 150px;
+}
+
+.col-lg-12{
+  /* background-color: green;
+   border: 5px solid white; */ 
+    /* outline-style: dashed;
+  outline-width: 5px; */
+  padding: : 500px;
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+}
+
+.btn-primary:hover {
+  cursor: pointer;
+}
+  
+
+
+
+
